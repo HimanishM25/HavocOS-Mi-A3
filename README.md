@@ -36,9 +36,9 @@ Front Camera | 32MP
 </manifest>
 ```
 ## Trees used for this build.
-[Device Tree](https://https://github.com/HimanishM25/android_device_laurel_sprout)
-[Vendor Tree](https://https://github.com/HimanishM25/android_vendor_laurel_sprout)
-[Kernel Tree](https://https://github.com/HimanishM25/android_kernel_msm-4.14)
+[Device Tree](https://https://github.com/HimanishM25/android_device_laurel_sprout) </br>
+[Vendor Tree](https://https://github.com/HimanishM25/android_vendor_laurel_sprout) </br>
+[Kernel Tree](https://https://github.com/HimanishM25/android_kernel_msm-4.14) </br>
 
 ## Builds
 Check the release on the main branch
