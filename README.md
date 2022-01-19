@@ -36,8 +36,8 @@ Front Camera | 32MP
 </manifest>
 ```
 ## Trees used for this build.
-[Device Tree](https://github.com/HimanishM25/android_device_laurel_sprout) </br>
-[Vendor Tree](https://github.com/HimanishM25/android_vendor_laurel_sprout) </br>
+[Device Tree](https://github.com/HimanishM25/android_device_xiaomi_laurel_sprout) </br>
+[Vendor Tree](https://github.com/HimanishM25/android_vendor_xiaomi_laurel_sprout) </br>
 [Kernel Tree](https://github.com/HimanishM25/android_kernel_msm-4.14) </br>
 
 ## Builds
