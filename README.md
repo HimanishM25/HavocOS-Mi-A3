@@ -1,3 +1,5 @@
+Havoc-OS for Mi A3 (laurel_sprout)
+=========================================
 Device configuration for Xiaomi Mi A3
 =========================================
 
